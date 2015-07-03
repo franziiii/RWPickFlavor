@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4BF7C484-BA46-4692-84BB-8ACA1DEDAF9C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RWPickFlavor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC6A43D9E4DECDEDCF8DCF5C38BADF010BE25672</key>
+		<string>https://github.com/franziiii/RWPickFlavor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RWPickFlavor.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC6A43D9E4DECDEDCF8DCF5C38BADF010BE25672</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/franziiii/RWPickFlavor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC6A43D9E4DECDEDCF8DCF5C38BADF010BE25672</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC6A43D9E4DECDEDCF8DCF5C38BADF010BE25672</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RWPickFlavor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
